@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">105567890894</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_zB3USEqwEWv1Y79_IB4bkKC202IL1Zk</string>
+    <string name="google_app_id" translatable="false">1:105567890894:android:c8a9e6895cd3d304a38f9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_zB3USEqwEWv1Y79_IB4bkKC202IL1Zk</string>
+    <string name="google_storage_bucket" translatable="false">azfar-authentication.appspot.com</string>
+    <string name="project_id" translatable="false">azfar-authentication</string>
+</resources>
